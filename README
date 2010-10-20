@@ -1,0 +1,4 @@
+* Install Directions *
+Install Xampp
+Place files in htdocs
+With apache running, navigate to http://localhost/parser.php
